@@ -5,7 +5,7 @@ Here you can find the latest version of my CV in PDF format.
 
 ## 🔗 Download Resume
 
-- [Click here to view/download my resume (PDF)]([./Samira-Mashtizadeh-CV.pdf](https://github.com/samira-dev-star/CV-Resume/blob/main/SAMIRA_MASHTIZADEH_CV.pdf))
+- [Click here to view/download my resume (PDF)]([./Samira-Mashtizadeh-CV.pdf](file:///C:/Users/Microsoft/Downloads/SAMIRA_MASHTIZADEH_CV.pdf))
 
 ## 📌 About Me
 
