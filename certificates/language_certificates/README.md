@@ -16,9 +16,9 @@ Here you can find verified documents and certificates that demonstrate my profic
 - 📄 [English through storytelling- The Alchemist Adventure](https://faradars.org/verify/CEEB3ACD)
 - 📄 [Computer- Assisted English vocabulary Learning](https://faradars.org/verify/4B34C6CF)
 - 📄 [British English accent + Certificate](https://faradars.org/verify/29959F7D)
-- 📄 [TCC Certificate](CV-Resume/certificates/language_certificates/TTC.jpg)
-- 📄 []()
-- 📄 []()
+- 📄 [TCC Certificate](TTC.jpg)
+- 📄 [English 4U2](English_4U2-Certificate_of_completion_13423.pdf)
+- 📄 [Insegno Inglese con Format e Teatro](Insegno_Inglese_con_Format_e_Teatro-Attestato_13424.pdf)
 
 > All files are available in PDF format and categorized by skill type.
 
