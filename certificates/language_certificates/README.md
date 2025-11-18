@@ -19,6 +19,6 @@ Here you can find verified documents and certificates that demonstrate my profic
 - 📄 [TCC Certificate](TTC.jpg)
 - 📄 [English 4U2](English_4U2-Certificate_of_completion_13423.pdf)
 - 📄 [Insegno Inglese con Format e Teatro](Insegno_Inglese_con_Format_e_Teatro-Attestato_13424.pdf)
+- 📄 [How to learn English](certificate.pdf)
 
-> All files are available in PDF format and categorized by skill type.
 

@@ -18,6 +18,9 @@ I am a mid-level full-stack web developer with hands-on experience in:
 - Project Deployment & Version Control
 
 [My Language Certificates and Qualifications:](https://github.com/samira-dev-star/CV-Resume/tree/main/certificates/language_certificates)
+
+<br>
+
 Fluent in English (IELTS Band 7), with a background in English Translation and strong communication skills.
 
 
